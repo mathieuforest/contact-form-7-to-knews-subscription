@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: EXO B2B Contact Form 7 Knews subscription
+ * Plugin Name: Contact Form 7 to Knews subscription
  * Version: 1.0
- * Plugin URI: http://exob2b.com/
- * Description: This was develop by exob2b for custom needs.
+ * Plugin URI: http://mathieuforest.ca/
+ * Description: This was develop for custom needs.
  * Author: Mathieu Forest
- * Author URI: http://exob2b.com/
+ * Author URI: http://mathieuforest.ca/
 Contact form 7 form to knews subscriptions. You need to install Dynamic hidden text field plugin. Add this shortcodes with the list id: [dynamictext knews-subscription "Put the list id here"]. And add those field [email] [name] and [surname].
  */
 
